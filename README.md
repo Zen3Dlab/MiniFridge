@@ -39,6 +39,11 @@ The first LDO kits shipped were sent with 2x extra m3x8mm BHCS instead of SHCS, 
     <td>https://dllpdf.com/</td>
     <td>Panels & Custom Extrusions</td>
   </tr>
+   <tr>
+    <td>Zen3D (EU)</td>
+    <td>https://shop.zen3d.eu/mini-fridge-door-kit-for-v0</td>
+    <td>Official LDO Kit</td>
+  </tr>
 </table>
 
 ![frame dims bro](https://github.com/user-attachments/assets/8ff9a495-f4f8-4192-8f09-3270eb55f32c)
